@@ -18,7 +18,9 @@ body {
 
 .lava, .wings, .Cooler {
     border: 2px solid black;
-
+        border-radius: 1.2em;
+        padding: 1rem 3.5rem;
+       
     font-style: italic;
     color: whitesmoke;
     background-color: #f1f4c6;
