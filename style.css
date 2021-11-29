@@ -1,0 +1,27 @@
+.head {
+    background-color: rgba(207, 163, 155, 0.589);
+    color: rgb(232, 247, 152);
+    text-align: center;
+    
+}
+
+body {
+    background-color: #d6d0b8;
+}
+
+#gi {
+ 
+   text-align: center;
+    
+}
+
+.lava, .wings, .Cooler {
+    border: 2px solid black;
+
+    font-style: italic;
+    color: whitesmoke;
+    background-color: #f1f4c6;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+}
